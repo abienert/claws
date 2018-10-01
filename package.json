@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/abienert/claws/issues"
   },
-  "homepage": "https://github.com/abienert/claws#readme"
+  "homepage": "https://github.com/abienert/claws#readme",
+  "dependencies": {
+    "serverless": "1.30.3"
+  }
 }
