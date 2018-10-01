@@ -100,4 +100,6 @@ Resources:
       Source:
         Location: !Ref SourceRepository
         Type: github
+      Triggers:
+        Webhook: True
       ServiceRole: !Ref CLAWSCodeBuildRole
